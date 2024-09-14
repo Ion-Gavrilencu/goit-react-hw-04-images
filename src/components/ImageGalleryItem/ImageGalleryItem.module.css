@@ -1,0 +1,11 @@
+
+.item {
+    list-style: none;
+    cursor: pointer;
+}
+
+.image {
+    width: 350px;
+    height: 350px;
+    border-radius: 4px;
+}

@@ -1,0 +1,25 @@
+
+.searchbar {
+    padding: 15px;
+    background-color: #007bff;
+    position: fixed;
+    width: 100%;
+    top:0px;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    background-color: #5a5a5a;
+    color: white;
+    border-radius: 15px;
+}
+
+.input {
+    width: 20%;
+    margin-left: 10px;
+    border-radius: 15px;
+}
